@@ -1,11 +1,6 @@
 # YOLOv8 Glioblastoma (Brain Tumor) Segmentation Model
 
-## Kerollos Lowandy
-
-**Repository: glioblastoma-segmentation**
-
-## GitHub Link
-[https://github.com/Kerollosl/glioblastoma-segmentation](https://github.com/Kerollosl/glioblastoma-segmentation)
+A YOLOv8 segmentation model that detects and masks glioblastoma (brain tumor) regions in MRI scans. The confidence threshold is tuned low (0.2) because recall matters more than precision for this task.
 
 ### Model Architecture
 - YOLOv8
