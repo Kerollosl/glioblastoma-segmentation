@@ -30,3 +30,7 @@ A YOLOv8 segmentation model that detects and masks glioblastoma (brain tumor) re
 ## Cleanup behavior and validation limits
 
 Research-only segmentation. Set ROBOFLOW_API_KEY externally; revoke the previously committed credential. Existing weights/runs are legacy artifacts, not newly validated models. Report dataset version, patient-separated splits, Dice/IoU and independent holdout results before any clinical interpretation.
+
+Use `python predict.py INPUT --model WEIGHTS --output predictions` for noninteractive image inference. Unreadable images fail before inference.
+
+For explicit held-out evaluation, supply a JSON array of `{patient_id, split, image}` records (image paths relative to dataset root) and run `python evaluate.py --model WEIGHTS --data data.yaml --patients patients.json --output evaluation.json`. The tool rejects patient leakage and mismatched image coverage, then evaluates only test and records checksums. Patient identities/provenance are supplied by the dataset owner; they are not inferred from filenames.
