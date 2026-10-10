@@ -26,3 +26,7 @@ A YOLOv8 segmentation model that detects and masks glioblastoma (brain tumor) re
 - `/runs/segment` - Subdirectory of YOLOv8 model training and validation containing the training weights and validation metrics.
 - `/runs/segment/train5/weights/best.pt` - Highest performing model weights file from previous trainings 
 - `/test_images/` - Subdirectory containing images to test the model's performance.
+
+## Cleanup behavior and validation limits
+
+Research-only segmentation. Set ROBOFLOW_API_KEY externally; revoke the previously committed credential. Existing weights/runs are legacy artifacts, not newly validated models. Report dataset version, patient-separated splits, Dice/IoU and independent holdout results before any clinical interpretation.

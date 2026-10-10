@@ -1,0 +1,639 @@
+{
+  "version": 1,
+  "source_commit": "eb439e24c972cc7073d6c93edf303cedd067ddb0",
+  "artifacts": [
+    {
+      "path": "runs/segment/train/args.yaml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "39f4490bfc91c6096e04bdfff606bc7ff48a9157",
+      "size": 1543,
+      "url": "https://api.github.com/repos/Kerollosl/glioblastoma-segmentation/git/blobs/39f4490bfc91c6096e04bdfff606bc7ff48a9157"
+    },
+    {
+      "path": "runs/segment/train2/args.yaml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "cce81d9414fdeecbfa15b3b6c797dfdc61444e04",
+      "size": 1571,
+      "url": "https://api.github.com/repos/Kerollosl/glioblastoma-segmentation/git/blobs/cce81d9414fdeecbfa15b3b6c797dfdc61444e04"
+    },
+    {
+      "path": "runs/segment/train3/args.yaml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d502153bb1b021eff57c784eb0e3b2c24f420072",
+      "size": 1571,
+      "url": "https://api.github.com/repos/Kerollosl/glioblastoma-segmentation/git/blobs/d502153bb1b021eff57c784eb0e3b2c24f420072"
+    },
+    {
+      "path": "runs/segment/train4/BoxF1_curve.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3223701cc2c10aea5a30753e3da971275e2a6e43",
+      "size": 104301,
+      "url": "https://api.github.com/repos/Kerollosl/glioblastoma-segmentation/git/blobs/3223701cc2c10aea5a30753e3da971275e2a6e43"
+    },
+    {
+      "path": "runs/segment/train4/BoxPR_curve.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "540cb6f45385116ca5d7532b3981d52c210dfd2d",
+      "size": 94921,
+      "url": "https://api.github.com/repos/Kerollosl/glioblastoma-segmentation/git/blobs/540cb6f45385116ca5d7532b3981d52c210dfd2d"
+    },
+    {
+      "path": "runs/segment/train4/BoxP_curve.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "fc851b6e22c076934258b7564c176687bea91291",
+      "size": 97068,
+      "url": "https://api.github.com/repos/Kerollosl/glioblastoma-segmentation/git/blobs/fc851b6e22c076934258b7564c176687bea91291"
+    },
+    {
+      "path": "runs/segment/train4/BoxR_curve.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "96bb25f3385525c3b01dd3a5703fe865a763ac82",
+      "size": 102927,
+      "url": "https://api.github.com/repos/Kerollosl/glioblastoma-segmentation/git/blobs/96bb25f3385525c3b01dd3a5703fe865a763ac82"
+    },
+    {
+      "path": "runs/segment/train4/MaskF1_curve.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "47e7b083d6a1cf88d23337789adfe3979d3e9a10",
+      "size": 104084,
+      "url": "https://api.github.com/repos/Kerollosl/glioblastoma-segmentation/git/blobs/47e7b083d6a1cf88d23337789adfe3979d3e9a10"
+    },
+    {
+      "path": "runs/segment/train4/MaskPR_curve.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "698b8ca77778b4852187f50c74f4c080d36c45a3",
+      "size": 95972,
+      "url": "https://api.github.com/repos/Kerollosl/glioblastoma-segmentation/git/blobs/698b8ca77778b4852187f50c74f4c080d36c45a3"
+    },
+    {
+      "path": "runs/segment/train4/MaskP_curve.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "422ec4c986c65c48d37d7d7d4d924c5c2f9c5330",
+      "size": 98974,
+      "url": "https://api.github.com/repos/Kerollosl/glioblastoma-segmentation/git/blobs/422ec4c986c65c48d37d7d7d4d924c5c2f9c5330"
+    },
+    {
+      "path": "runs/segment/train4/MaskR_curve.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "236252157376d47d28f68cc17d65571ea38b2f62",
+      "size": 101531,
+      "url": "https://api.github.com/repos/Kerollosl/glioblastoma-segmentation/git/blobs/236252157376d47d28f68cc17d65571ea38b2f62"
+    },
+    {
+      "path": "runs/segment/train4/args.yaml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "72977b7c71938dd0c6cc889569f60283d89dab51",
+      "size": 1571,
+      "url": "https://api.github.com/repos/Kerollosl/glioblastoma-segmentation/git/blobs/72977b7c71938dd0c6cc889569f60283d89dab51"
+    },
+    {
+      "path": "runs/segment/train4/confusion_matrix.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6a5517b630a576f566a090d78e3625be8002faa4",
+      "size": 110253,
+      "url": "https://api.github.com/repos/Kerollosl/glioblastoma-segmentation/git/blobs/6a5517b630a576f566a090d78e3625be8002faa4"
+    },
+    {
+      "path": "runs/segment/train4/confusion_matrix_normalized.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "77d50eabe9bea184a414bfe9fd539772ec6675c0",
+      "size": 112624,
+      "url": "https://api.github.com/repos/Kerollosl/glioblastoma-segmentation/git/blobs/77d50eabe9bea184a414bfe9fd539772ec6675c0"
+    },
+    {
+      "path": "runs/segment/train4/events.out.tfevents.1722986346.131fad920564.1223.0",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "02f9b6528d1fa9ae8d4e51d74e8c3b7fcfcb6a39",
+      "size": 303084,
+      "url": "https://api.github.com/repos/Kerollosl/glioblastoma-segmentation/git/blobs/02f9b6528d1fa9ae8d4e51d74e8c3b7fcfcb6a39"
+    },
+    {
+      "path": "runs/segment/train4/labels.jpg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b977a6313c6210fa21240aad495a41b20a2d3360",
+      "size": 124476,
+      "url": "https://api.github.com/repos/Kerollosl/glioblastoma-segmentation/git/blobs/b977a6313c6210fa21240aad495a41b20a2d3360"
+    },
+    {
+      "path": "runs/segment/train4/labels_correlogram.jpg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "22f4b2387f6d274e0320a594ff66575df8b758b6",
+      "size": 249200,
+      "url": "https://api.github.com/repos/Kerollosl/glioblastoma-segmentation/git/blobs/22f4b2387f6d274e0320a594ff66575df8b758b6"
+    },
+    {
+      "path": "runs/segment/train4/results.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "39859957931c4ae81e75972b50db773066f6167a",
+      "size": 7680,
+      "url": "https://api.github.com/repos/Kerollosl/glioblastoma-segmentation/git/blobs/39859957931c4ae81e75972b50db773066f6167a"
+    },
+    {
+      "path": "runs/segment/train4/results.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d78f293762f6ff8adbcbff96c1841df78f62845d",
+      "size": 409274,
+      "url": "https://api.github.com/repos/Kerollosl/glioblastoma-segmentation/git/blobs/d78f293762f6ff8adbcbff96c1841df78f62845d"
+    },
+    {
+      "path": "runs/segment/train4/train_batch0.jpg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "113de6f00c498ed40ac9ae7aa3fd520105ba99fb",
+      "size": 527276,
+      "url": "https://api.github.com/repos/Kerollosl/glioblastoma-segmentation/git/blobs/113de6f00c498ed40ac9ae7aa3fd520105ba99fb"
+    },
+    {
+      "path": "runs/segment/train4/train_batch1.jpg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4d2adfa1e9d1e5955f032f426252ac5807045990",
+      "size": 480478,
+      "url": "https://api.github.com/repos/Kerollosl/glioblastoma-segmentation/git/blobs/4d2adfa1e9d1e5955f032f426252ac5807045990"
+    },
+    {
+      "path": "runs/segment/train4/train_batch1080.jpg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6cc6765c1926759cd117047d5b7e8486721857e9",
+      "size": 416770,
+      "url": "https://api.github.com/repos/Kerollosl/glioblastoma-segmentation/git/blobs/6cc6765c1926759cd117047d5b7e8486721857e9"
+    },
+    {
+      "path": "runs/segment/train4/train_batch1081.jpg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6e5332a8254600419f9b661bb20439dc033caa8b",
+      "size": 475096,
+      "url": "https://api.github.com/repos/Kerollosl/glioblastoma-segmentation/git/blobs/6e5332a8254600419f9b661bb20439dc033caa8b"
+    },
+    {
+      "path": "runs/segment/train4/train_batch1082.jpg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "36f53ddfc6e3f3af6c9a9903490a0e3f6115da2d",
+      "size": 464890,
+      "url": "https://api.github.com/repos/Kerollosl/glioblastoma-segmentation/git/blobs/36f53ddfc6e3f3af6c9a9903490a0e3f6115da2d"
+    },
+    {
+      "path": "runs/segment/train4/train_batch2.jpg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b1ad787cd36c00089f1f549ebacce74a7d34d3d7",
+      "size": 464126,
+      "url": "https://api.github.com/repos/Kerollosl/glioblastoma-segmentation/git/blobs/b1ad787cd36c00089f1f549ebacce74a7d34d3d7"
+    },
+    {
+      "path": "runs/segment/train4/val_batch0_labels.jpg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "63f143d15a7f3ece5df00214fbee94d010970eb5",
+      "size": 615112,
+      "url": "https://api.github.com/repos/Kerollosl/glioblastoma-segmentation/git/blobs/63f143d15a7f3ece5df00214fbee94d010970eb5"
+    },
+    {
+      "path": "runs/segment/train4/val_batch0_pred.jpg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "96544cefd6bf7666de7b80889ade1bd315f20c43",
+      "size": 630641,
+      "url": "https://api.github.com/repos/Kerollosl/glioblastoma-segmentation/git/blobs/96544cefd6bf7666de7b80889ade1bd315f20c43"
+    },
+    {
+      "path": "runs/segment/train4/val_batch1_labels.jpg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9562eace3003f45b57cb7f83d59335f1b5cf8045",
+      "size": 584564,
+      "url": "https://api.github.com/repos/Kerollosl/glioblastoma-segmentation/git/blobs/9562eace3003f45b57cb7f83d59335f1b5cf8045"
+    },
+    {
+      "path": "runs/segment/train4/val_batch1_pred.jpg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3ab830d92016e225e646b6a03bd7e44ff8189496",
+      "size": 587792,
+      "url": "https://api.github.com/repos/Kerollosl/glioblastoma-segmentation/git/blobs/3ab830d92016e225e646b6a03bd7e44ff8189496"
+    },
+    {
+      "path": "runs/segment/train4/val_batch2_labels.jpg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b6c45a5d8ffde844b16f0dc678492eeadb715107",
+      "size": 560612,
+      "url": "https://api.github.com/repos/Kerollosl/glioblastoma-segmentation/git/blobs/b6c45a5d8ffde844b16f0dc678492eeadb715107"
+    },
+    {
+      "path": "runs/segment/train4/val_batch2_pred.jpg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "720ac8c5b355b4a76c58193d6b6ea76dec52dc33",
+      "size": 564059,
+      "url": "https://api.github.com/repos/Kerollosl/glioblastoma-segmentation/git/blobs/720ac8c5b355b4a76c58193d6b6ea76dec52dc33"
+    },
+    {
+      "path": "runs/segment/train4/weights/best.pt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9f9eb7e0c9d1e7303d73cf78b672b272257a7612",
+      "size": 54821205,
+      "url": "https://api.github.com/repos/Kerollosl/glioblastoma-segmentation/git/blobs/9f9eb7e0c9d1e7303d73cf78b672b272257a7612"
+    },
+    {
+      "path": "runs/segment/train4/weights/last.pt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "91564bfe5987d9f9102f32c4a2fbdf3560085c04",
+      "size": 54821205,
+      "url": "https://api.github.com/repos/Kerollosl/glioblastoma-segmentation/git/blobs/91564bfe5987d9f9102f32c4a2fbdf3560085c04"
+    },
+    {
+      "path": "runs/segment/train5/BoxF1_curve.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a16a17bb772f998940d548c74c6b3876882a71da",
+      "size": 102393,
+      "url": "https://api.github.com/repos/Kerollosl/glioblastoma-segmentation/git/blobs/a16a17bb772f998940d548c74c6b3876882a71da"
+    },
+    {
+      "path": "runs/segment/train5/BoxPR_curve.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b86262dd8f60b632bc256c87ce4667390b73a551",
+      "size": 95612,
+      "url": "https://api.github.com/repos/Kerollosl/glioblastoma-segmentation/git/blobs/b86262dd8f60b632bc256c87ce4667390b73a551"
+    },
+    {
+      "path": "runs/segment/train5/BoxP_curve.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d4659745ff478822df4bc3cff8cb43bd746d0d8c",
+      "size": 98369,
+      "url": "https://api.github.com/repos/Kerollosl/glioblastoma-segmentation/git/blobs/d4659745ff478822df4bc3cff8cb43bd746d0d8c"
+    },
+    {
+      "path": "runs/segment/train5/BoxR_curve.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0e3f47d2d0602eca8428d7e387b660c1c75de3e3",
+      "size": 102269,
+      "url": "https://api.github.com/repos/Kerollosl/glioblastoma-segmentation/git/blobs/0e3f47d2d0602eca8428d7e387b660c1c75de3e3"
+    },
+    {
+      "path": "runs/segment/train5/MaskF1_curve.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "78b63a92c3d65b940e9ee06bd563f82050ce97bb",
+      "size": 102700,
+      "url": "https://api.github.com/repos/Kerollosl/glioblastoma-segmentation/git/blobs/78b63a92c3d65b940e9ee06bd563f82050ce97bb"
+    },
+    {
+      "path": "runs/segment/train5/MaskPR_curve.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6ec83e4e2e571f2edc4b0cf7971c32c644b7c405",
+      "size": 94527,
+      "url": "https://api.github.com/repos/Kerollosl/glioblastoma-segmentation/git/blobs/6ec83e4e2e571f2edc4b0cf7971c32c644b7c405"
+    },
+    {
+      "path": "runs/segment/train5/MaskP_curve.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a7d2ee3a61bdf770a3a3f3232bc22737e4881317",
+      "size": 98001,
+      "url": "https://api.github.com/repos/Kerollosl/glioblastoma-segmentation/git/blobs/a7d2ee3a61bdf770a3a3f3232bc22737e4881317"
+    },
+    {
+      "path": "runs/segment/train5/MaskR_curve.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4ea98dda1998197030ffcd40857b665bb63cfe32",
+      "size": 101167,
+      "url": "https://api.github.com/repos/Kerollosl/glioblastoma-segmentation/git/blobs/4ea98dda1998197030ffcd40857b665bb63cfe32"
+    },
+    {
+      "path": "runs/segment/train5/args.yaml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "961c6dc102b77a8964892af4633514de006fb6a6",
+      "size": 1571,
+      "url": "https://api.github.com/repos/Kerollosl/glioblastoma-segmentation/git/blobs/961c6dc102b77a8964892af4633514de006fb6a6"
+    },
+    {
+      "path": "runs/segment/train5/confusion_matrix.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "09c101191e42497dc33775304173cdcc522e148b",
+      "size": 110656,
+      "url": "https://api.github.com/repos/Kerollosl/glioblastoma-segmentation/git/blobs/09c101191e42497dc33775304173cdcc522e148b"
+    },
+    {
+      "path": "runs/segment/train5/confusion_matrix_normalized.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "aa1b6fbdc63407fb8d2813871373e691d37ab925",
+      "size": 112436,
+      "url": "https://api.github.com/repos/Kerollosl/glioblastoma-segmentation/git/blobs/aa1b6fbdc63407fb8d2813871373e691d37ab925"
+    },
+    {
+      "path": "runs/segment/train5/events.out.tfevents.1723313488.d84ee8db1457.902.0",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "152649e7092b4d2de536ff9c71f24730892d6ea2",
+      "size": 302744,
+      "url": "https://api.github.com/repos/Kerollosl/glioblastoma-segmentation/git/blobs/152649e7092b4d2de536ff9c71f24730892d6ea2"
+    },
+    {
+      "path": "runs/segment/train5/labels.jpg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b977a6313c6210fa21240aad495a41b20a2d3360",
+      "size": 124476,
+      "url": "https://api.github.com/repos/Kerollosl/glioblastoma-segmentation/git/blobs/b977a6313c6210fa21240aad495a41b20a2d3360"
+    },
+    {
+      "path": "runs/segment/train5/labels_correlogram.jpg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "22f4b2387f6d274e0320a594ff66575df8b758b6",
+      "size": 249200,
+      "url": "https://api.github.com/repos/Kerollosl/glioblastoma-segmentation/git/blobs/22f4b2387f6d274e0320a594ff66575df8b758b6"
+    },
+    {
+      "path": "runs/segment/train5/results.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0f8cc8d30481962c4bb419ac2a9976cfe75eb8fd",
+      "size": 7680,
+      "url": "https://api.github.com/repos/Kerollosl/glioblastoma-segmentation/git/blobs/0f8cc8d30481962c4bb419ac2a9976cfe75eb8fd"
+    },
+    {
+      "path": "runs/segment/train5/results.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "bed0f550c86e4f11413edcce9ad1bbc0f9f7812a",
+      "size": 469074,
+      "url": "https://api.github.com/repos/Kerollosl/glioblastoma-segmentation/git/blobs/bed0f550c86e4f11413edcce9ad1bbc0f9f7812a"
+    },
+    {
+      "path": "runs/segment/train5/train_batch0.jpg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "113de6f00c498ed40ac9ae7aa3fd520105ba99fb",
+      "size": 527276,
+      "url": "https://api.github.com/repos/Kerollosl/glioblastoma-segmentation/git/blobs/113de6f00c498ed40ac9ae7aa3fd520105ba99fb"
+    },
+    {
+      "path": "runs/segment/train5/train_batch1.jpg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4d2adfa1e9d1e5955f032f426252ac5807045990",
+      "size": 480478,
+      "url": "https://api.github.com/repos/Kerollosl/glioblastoma-segmentation/git/blobs/4d2adfa1e9d1e5955f032f426252ac5807045990"
+    },
+    {
+      "path": "runs/segment/train5/train_batch1080.jpg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6cc6765c1926759cd117047d5b7e8486721857e9",
+      "size": 416770,
+      "url": "https://api.github.com/repos/Kerollosl/glioblastoma-segmentation/git/blobs/6cc6765c1926759cd117047d5b7e8486721857e9"
+    },
+    {
+      "path": "runs/segment/train5/train_batch1081.jpg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6e5332a8254600419f9b661bb20439dc033caa8b",
+      "size": 475096,
+      "url": "https://api.github.com/repos/Kerollosl/glioblastoma-segmentation/git/blobs/6e5332a8254600419f9b661bb20439dc033caa8b"
+    },
+    {
+      "path": "runs/segment/train5/train_batch1082.jpg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "36f53ddfc6e3f3af6c9a9903490a0e3f6115da2d",
+      "size": 464890,
+      "url": "https://api.github.com/repos/Kerollosl/glioblastoma-segmentation/git/blobs/36f53ddfc6e3f3af6c9a9903490a0e3f6115da2d"
+    },
+    {
+      "path": "runs/segment/train5/train_batch2.jpg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b1ad787cd36c00089f1f549ebacce74a7d34d3d7",
+      "size": 464126,
+      "url": "https://api.github.com/repos/Kerollosl/glioblastoma-segmentation/git/blobs/b1ad787cd36c00089f1f549ebacce74a7d34d3d7"
+    },
+    {
+      "path": "runs/segment/train5/val_batch0_labels.jpg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "63f143d15a7f3ece5df00214fbee94d010970eb5",
+      "size": 615112,
+      "url": "https://api.github.com/repos/Kerollosl/glioblastoma-segmentation/git/blobs/63f143d15a7f3ece5df00214fbee94d010970eb5"
+    },
+    {
+      "path": "runs/segment/train5/val_batch0_pred.jpg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3d0b3eb3f582c88f7f15826e4e883873c4b034be",
+      "size": 626651,
+      "url": "https://api.github.com/repos/Kerollosl/glioblastoma-segmentation/git/blobs/3d0b3eb3f582c88f7f15826e4e883873c4b034be"
+    },
+    {
+      "path": "runs/segment/train5/val_batch1_labels.jpg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9562eace3003f45b57cb7f83d59335f1b5cf8045",
+      "size": 584564,
+      "url": "https://api.github.com/repos/Kerollosl/glioblastoma-segmentation/git/blobs/9562eace3003f45b57cb7f83d59335f1b5cf8045"
+    },
+    {
+      "path": "runs/segment/train5/val_batch1_pred.jpg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a7786bac9f291eeb2fd919cd2f9ae3102ec78e98",
+      "size": 584606,
+      "url": "https://api.github.com/repos/Kerollosl/glioblastoma-segmentation/git/blobs/a7786bac9f291eeb2fd919cd2f9ae3102ec78e98"
+    },
+    {
+      "path": "runs/segment/train5/val_batch2_labels.jpg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b6c45a5d8ffde844b16f0dc678492eeadb715107",
+      "size": 560612,
+      "url": "https://api.github.com/repos/Kerollosl/glioblastoma-segmentation/git/blobs/b6c45a5d8ffde844b16f0dc678492eeadb715107"
+    },
+    {
+      "path": "runs/segment/train5/val_batch2_pred.jpg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "aee6f5e071305d4831839891785055f6f80018a9",
+      "size": 563510,
+      "url": "https://api.github.com/repos/Kerollosl/glioblastoma-segmentation/git/blobs/aee6f5e071305d4831839891785055f6f80018a9"
+    },
+    {
+      "path": "runs/segment/train5/weights/best.pt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0d22ca42625b1f09f74554e326f55ed768a7ae22",
+      "size": 54821013,
+      "url": "https://api.github.com/repos/Kerollosl/glioblastoma-segmentation/git/blobs/0d22ca42625b1f09f74554e326f55ed768a7ae22"
+    },
+    {
+      "path": "runs/segment/train5/weights/last.pt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f762e211b7879ac3bcc8cedc7567fdacbca5e6d9",
+      "size": 54821205,
+      "url": "https://api.github.com/repos/Kerollosl/glioblastoma-segmentation/git/blobs/f762e211b7879ac3bcc8cedc7567fdacbca5e6d9"
+    },
+    {
+      "path": "runs/segment/train52/BoxF1_curve.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "19096f2f52785e4251b09bfdd58e6854dae55157",
+      "size": 101513,
+      "url": "https://api.github.com/repos/Kerollosl/glioblastoma-segmentation/git/blobs/19096f2f52785e4251b09bfdd58e6854dae55157"
+    },
+    {
+      "path": "runs/segment/train52/BoxPR_curve.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "73449016861214b8103bcebd9a0b6be7551ec73d",
+      "size": 95890,
+      "url": "https://api.github.com/repos/Kerollosl/glioblastoma-segmentation/git/blobs/73449016861214b8103bcebd9a0b6be7551ec73d"
+    },
+    {
+      "path": "runs/segment/train52/BoxP_curve.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "378490cd017ea91d5d5906c6ebda9016f15da318",
+      "size": 96627,
+      "url": "https://api.github.com/repos/Kerollosl/glioblastoma-segmentation/git/blobs/378490cd017ea91d5d5906c6ebda9016f15da318"
+    },
+    {
+      "path": "runs/segment/train52/BoxR_curve.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ab7bb54a8ed9055e2ce246e4151facd8fbeee3fe",
+      "size": 102465,
+      "url": "https://api.github.com/repos/Kerollosl/glioblastoma-segmentation/git/blobs/ab7bb54a8ed9055e2ce246e4151facd8fbeee3fe"
+    },
+    {
+      "path": "runs/segment/train52/MaskF1_curve.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5d82c8616b45a537a3628aeee6573e4154ab9799",
+      "size": 102850,
+      "url": "https://api.github.com/repos/Kerollosl/glioblastoma-segmentation/git/blobs/5d82c8616b45a537a3628aeee6573e4154ab9799"
+    },
+    {
+      "path": "runs/segment/train52/MaskPR_curve.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4852dd9365c707c7208fd0e2b6ee46d94410240e",
+      "size": 94423,
+      "url": "https://api.github.com/repos/Kerollosl/glioblastoma-segmentation/git/blobs/4852dd9365c707c7208fd0e2b6ee46d94410240e"
+    },
+    {
+      "path": "runs/segment/train52/MaskP_curve.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f39b84c8ddd95aa3b0fea49d247ee20337e986ca",
+      "size": 97954,
+      "url": "https://api.github.com/repos/Kerollosl/glioblastoma-segmentation/git/blobs/f39b84c8ddd95aa3b0fea49d247ee20337e986ca"
+    },
+    {
+      "path": "runs/segment/train52/MaskR_curve.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "19c4f616ecacdd76c2c73bf1e516e9f6d90e9290",
+      "size": 100894,
+      "url": "https://api.github.com/repos/Kerollosl/glioblastoma-segmentation/git/blobs/19c4f616ecacdd76c2c73bf1e516e9f6d90e9290"
+    },
+    {
+      "path": "runs/segment/train52/confusion_matrix.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "09c101191e42497dc33775304173cdcc522e148b",
+      "size": 110656,
+      "url": "https://api.github.com/repos/Kerollosl/glioblastoma-segmentation/git/blobs/09c101191e42497dc33775304173cdcc522e148b"
+    },
+    {
+      "path": "runs/segment/train52/confusion_matrix_normalized.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "aa1b6fbdc63407fb8d2813871373e691d37ab925",
+      "size": 112436,
+      "url": "https://api.github.com/repos/Kerollosl/glioblastoma-segmentation/git/blobs/aa1b6fbdc63407fb8d2813871373e691d37ab925"
+    },
+    {
+      "path": "runs/segment/train52/val_batch0_labels.jpg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c38b503d0f8b692a06b952ac818bebfc5ec70689",
+      "size": 614526,
+      "url": "https://api.github.com/repos/Kerollosl/glioblastoma-segmentation/git/blobs/c38b503d0f8b692a06b952ac818bebfc5ec70689"
+    },
+    {
+      "path": "runs/segment/train52/val_batch0_pred.jpg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a21db2a22dad7065a5103c12d0a4c4d4157eae44",
+      "size": 625870,
+      "url": "https://api.github.com/repos/Kerollosl/glioblastoma-segmentation/git/blobs/a21db2a22dad7065a5103c12d0a4c4d4157eae44"
+    },
+    {
+      "path": "runs/segment/train52/val_batch1_labels.jpg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "10650a3201a39538a216d431607a543a0a5e2b6c",
+      "size": 598917,
+      "url": "https://api.github.com/repos/Kerollosl/glioblastoma-segmentation/git/blobs/10650a3201a39538a216d431607a543a0a5e2b6c"
+    },
+    {
+      "path": "runs/segment/train52/val_batch1_pred.jpg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "97d379fcbdcb47262fc9ecf107925b758476275b",
+      "size": 610385,
+      "url": "https://api.github.com/repos/Kerollosl/glioblastoma-segmentation/git/blobs/97d379fcbdcb47262fc9ecf107925b758476275b"
+    },
+    {
+      "path": "runs/segment/train52/val_batch2_labels.jpg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e42d9027d0dee001e1401f87084c340fa45938b6",
+      "size": 583483,
+      "url": "https://api.github.com/repos/Kerollosl/glioblastoma-segmentation/git/blobs/e42d9027d0dee001e1401f87084c340fa45938b6"
+    },
+    {
+      "path": "runs/segment/train52/val_batch2_pred.jpg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "22df6cd8d7d2a5417b0826e535d26d310d20f0d2",
+      "size": 583485,
+      "url": "https://api.github.com/repos/Kerollosl/glioblastoma-segmentation/git/blobs/22df6cd8d7d2a5417b0826e535d26d310d20f0d2"
+    }
+  ],
+  "status": "Historical artifacts retained. Training/evaluation and redistribution rights are not independently verified."
+}
